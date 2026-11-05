@@ -4,6 +4,6 @@ const FREE_DROP_CONFIG = {
   refinedAmount: 55,
   normalKeys: 6,
   randomCaseKeys: 6,
-  jackpotKeys: 20,
-  odds: {normalKeys:26, refined:50, randomCaseKeys:20, jackpotKeys:4}
+  jackpotKeys: 50,
+  odds: {normalKeys:27, refined:50, randomCaseKeys:20, jackpotKeys:3}
 };
