@@ -38,7 +38,6 @@ const CRATE_PRICES = {
     'Winter 2023 Cosmetic Case': 0.11,
     'Summer 2024 Cosmetic Case': 0.66,
     'Terrifying Trove Case': 2.22,
-    'Winter 2024 Cosmetic Case': 0.11,
     'Summer 2025 Cosmetic Case': 0.33,
     'Spectral Stash Case': 0.66,
     'Winter 2025 Cosmetic Case': 0.11,
