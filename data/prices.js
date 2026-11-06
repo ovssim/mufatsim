@@ -42,7 +42,7 @@ const MARKET_SETTINGS={preferMarketSell:true,preferMarketCrates:true,preferMarke
 // Distribution is 74% / 20% / 5% / 1% per Unusual, not per refresh.
 // These are fictional simulator buyback quotes, NOT backpack.tf prices.
 const SIMULATED_UNUSUAL_PRICE_BANDS = [
-  {minKeys:15, maxKeys:50, weight:715},
+  {minKeys:15, maxKeys:50, weight:735},
   {minKeys:50, maxKeys:110, weight:240},
   {minKeys:200, maxKeys:300, weight:20},
   {minKeys:500, maxKeys:3000, weight:5}
