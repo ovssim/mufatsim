@@ -12,11 +12,11 @@ const ITEM_PRICES = {
     'Scottish Resistance': 0.11,
     'Name Tag': 18.00,
     'Team Captain': 12.00,
-    'Strange Sandvich': 400.00
+    'Strange Sandvich': 536.00
   },
   byQuality: {
     'Unusual': 700.00,
-    'Strange': 2.00
+    'Strange': 12.00
   },
   byNameAndQuality: {
     'Strange Iron Bomber|Strange': 18.00
