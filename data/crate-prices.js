@@ -13,7 +13,7 @@ const CRATE_PRICES = {
      'Gun Mettle Cosmetic Case': 346.44,
      'Quarantined Collection Case': 710.88,
      'Confidential Collection Case': 447.11,
-     'Gargoyle Case': .658.88,
+     'Gargoyle Case': 658.88,
      'Creepy Crawly Case': 363.44,
      'Rainy Day Cosmetic Case': 4.00,
      'Abominable Cosmetic Case': 2.66,
