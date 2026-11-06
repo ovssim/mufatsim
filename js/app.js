@@ -3,7 +3,7 @@
 const $ = id => document.getElementById(id);
 const SAVE_KEY = 'tf2-unbox-beta-1'; // Retain saves from v0.1–0.4.
 const INIT = () => ({metal:1800,metalCents:20000,
-  keys:{mannco:5}, crates:{'series-1':3}, items:[],opened:0,unusuals:0,
+  keys:{mannco:15}, crates:{'series-1':3}, items:[],opened:0,unusuals:0,
   spent:0,mode:'economy'});
 let state;
 try{state={...INIT(),...JSON.parse(localStorage.getItem(SAVE_KEY)||'{}')};}
