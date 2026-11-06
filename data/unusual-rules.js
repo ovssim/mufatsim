@@ -7,7 +7,7 @@
 // Wormyard.Store universal simulation option, NOT Valve-published odds.
 // Eligible openable crates and cases get at least a 0.66% Unusual roll.
 // If a graded case has no recognized hat, it temporarily shows 0% until listed here.
-const UNIVERSAL_UNUSUAL_CHANCE = 0.0095;
+const UNIVERSAL_UNUSUAL_CHANCE = 0.0099;
 // Classic hats for the rare bonus category in numbered supply crates. These
 // aren't taken from a crate's normal weapon/tool item list.
 const UNIVERSAL_CLASSIC_UNUSUAL_HATS = [
