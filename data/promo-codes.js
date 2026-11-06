@@ -2,5 +2,8 @@
 const PROMO_CODES = Object.freeze({
   UNUSUAL100: {type:'random-unusual',description:'One random Unusual (unsellable)',oncePerSave:true},
   WORMYARD: {type:'mannco-keys',quantity:25,description:'25 Mann Co. Supply Crate Keys',oncePerSave:true},
-  KEYS25: {type:'mannco-keys',quantity:500,description:'25 Mann Co. Supply Crate Keys',oncePerSave:false}
+  KEYS25: {type:'mannco-keys',quantity:500,description:'25 Mann Co. Supply Crate Keys',oncePerSave:false},
+  KEYS26: {type:'mannco-keys',quantity:500,description:'25 Mann Co. Supply Crate Keys',oncePerSave:false},
+  KEYS23: {type:'mannco-keys',quantity:500,description:'25 Mann Co. Supply Crate Keys',oncePerSave:false},
+  KEYS24: {type:'mannco-keys',quantity:500,description:'25 Mann Co. Supply Crate Keys',oncePerSave:false}
 });
