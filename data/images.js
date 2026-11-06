@@ -16,3 +16,4 @@ const CRATE_IMAGES = {
   'summer-2024': 'https://community.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIYwocSBXrrCF8i8f1APeYAeM_mNsm4K9GzDtmlBMpZLHhDztmYAPHT6MKWvBt9lu5UHFm6sM6UYCw9rkEKF_otNPOOuQkN95OGcTRWP6AZ1zjqhVvsG7giBk',
   'winter-2024': 'https://community.steamstatic.com/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZULUrsm1j-9xgEIYxQcWA_ruwdAidvjMuCFCuIPleVntcIB5jpqgwZ-euLhZjY0IACVAKMJD_ZvolG-DXAwvJY6AYbnp7lVfgzutdHANbUkNdtSX56HjHM37RQ'
 };
+ 
