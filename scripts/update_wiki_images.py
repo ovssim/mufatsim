@@ -48,3 +48,4 @@ def run():
  if count:MAP.write_text(json.dumps(data,separators=(',',':'),ensure_ascii=False)+'\n')
  print(f'Legacy Wiki images: {count} mapped / {len(names)} missing aliases tried.')
 if __name__=='__main__':run()
+ 
