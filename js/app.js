@@ -849,7 +849,7 @@ function renderRedeem(){
  const used=code&&state.redeemedCodes[code];
  $('redeemButton').disabled=!!used;
  $('redeemStatus').textContent=used?`${code} has already been redeemed in this save.`:
-  'Each code is one use per browser save. KEYS25 grants 25 keys in Economy mode; promo Unusuals cannot be sold or traded.';
+  'Each code is one use per browser save. WORMYARD grants 25 keys in Economy mode; promo Unusuals cannot be sold or traded.';
 }
 $('redeemCode').addEventListener('input',renderRedeem);
 $('redeemButton').onclick=()=>{
