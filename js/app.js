@@ -290,9 +290,9 @@ function marketItemPrice(item){
 // Prices are NOT backpack.tf market observations and are independent of hat/effect.
 const DEFAULT_UNUSUAL_BANDS=[
  {minKeys:15,maxKeys:50,weight:74},
- {minKeys:50,maxKeys:140,weight:20},
- {minKeys:200,maxKeys:300,weight:5},
- {minKeys:500,maxKeys:3000,weight:1}
+ {minKeys:50,maxKeys:175,weight:20},
+ {minKeys:200,maxKeys:480,weight:5},
+ {minKeys:500,maxKeys:5000,weight:1}
 ];
 const UNUSUAL_BANDS=typeof SIMULATED_UNUSUAL_PRICE_BANDS!=='undefined'
  ?SIMULATED_UNUSUAL_PRICE_BANDS:DEFAULT_UNUSUAL_BANDS;
